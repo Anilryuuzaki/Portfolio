@@ -1,0 +1,29 @@
+.social-icon {
+    margin: 20px 10px;
+  }
+
+  .face{
+    color: blue;
+  }
+  
+  .inst{
+    color: red;
+  }
+  .twit{
+    color: blue;
+  }
+  .linke{
+    color: blue;
+  }
+  .git{
+    color: black;
+  }
+  h6{
+    
+    text-align: center;
+  }
+
+  #footer{
+    text-align: center;
+    
+  }
